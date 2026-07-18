@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Aleeza Bashir 👋
 
-<!--
-**aleezabashir-IT/aleezabashir-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSIT Student at Lahore Garrison University
 
-Here are some ideas to get you started:
+💻 Full Stack Development Intern @ DecodeLabs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔒 Cyber Security Intern @ CodeAlpha
+
+🌱 Currently Learning
+- Full Stack Development
+- Cyber Security
+- Artificial Intelligence
+- Ethical Hacking
+
+## 💻 Skills
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Node.js
+- Express.js
+- MySQL
+- Python
+- Git & GitHub
+
+## 🚀 Projects
+
+- Student Management System
+- Portfolio Website
+- Secure Code Audit
+- Basic Network Sniffer
+- Phishing Awareness Project
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/aleeza-bashir-33469a419
+- Portfolio: https://aleezabashir-it.github.io/DecodeLabs-Portfolio-Website/
+
+Thanks for visiting my profile! ⭐
